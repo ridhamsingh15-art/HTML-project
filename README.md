@@ -14,7 +14,7 @@ The website presents food categories, offers, restaurant and dish cards, and a s
 Open `index.html` in a modern browser.
 
 ## Live project
-https://ridhamsingh15-art.github.io/tadka-route-project/
+https://ridhamsingh15-art.github.io/HTML-project/
 
 ## Academic context
 TR-101: Tech Foundations — Linux and Web Basics  
